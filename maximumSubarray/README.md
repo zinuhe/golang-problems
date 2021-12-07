@@ -1,11 +1,11 @@
-Maximun Subarray Problem
+# Maximun Subarray Problem
 
-Links:
-https://en.wikipedia.org/wiki/Maximum_subarray_problem
-https://www.youtube.com/watch?v=XoEOBo24brg
+## Approach
+* Divide and conquer
+* Greedy Algorithms
+* Dynamic Programing
 
 
--Divide and conquer
--Greedy Algorithms
--Dynamic Programing
-
+## Links:
+* [Wikipedia](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+* [Youtube](https://www.youtube.com/watch?v=XoEOBo24brg)
